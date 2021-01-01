@@ -27,13 +27,6 @@
         "image": "https://edteam-media.s3.amazonaws.com/courses/big/35d81cae-b9b2-4fbd-9329-8bd20e09ef9f.png",
         "price": "80",
         "profesor": "Freddy Castro"
-    },
-    {
-        "id": 5,
-        "titulo": "Unity desde cero",
-        "image": "https://edteam-media.s3.amazonaws.com/courses/big/35d81cae-b9b2-4fbd-9329-8bd20e09ef9f.png",
-        "price": "80",
-        "profesor": "Freddy Castro"
     }
 ]
 }
